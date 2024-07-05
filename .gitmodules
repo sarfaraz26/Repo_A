@@ -1,0 +1,3 @@
+[submodule "BRepo"]
+	path = BRepo
+	url = https://github.com/sarfaraz26/Repo_B.git
